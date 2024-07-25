@@ -25,18 +25,7 @@ Hi there! I'm [Mwirigi Muriithi](https://www.mwirigi.github.io/), a passionate w
 <p align="left"> <img src="https://profile-counter.glitch.me/mwirigi/count.svg" alt="mwirigi" /> </p>
 
 </br>
-<br>
 
-<img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
-
- - 📫 How to reach me: [learnerviner@gmail.com](mailto:learnerviner@gmail.com);
- - 🔗 My Website: coming soon...
- 
- <br>
-<h3>Profile Views</h3>
- <p align="left"> <img src="https://profile-counter.glitch.me/mwirigi/count.svg" alt="mwirigi" /> </p>
- 
- </br>
 
 **Languages and Tools::**
 <br>
