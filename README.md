@@ -17,24 +17,22 @@ Hi there! I'm [Mwirigi Muriithi](https://www.mwirigi.github.io/), a passionate w
 
 <br>
 
-<h3 align="center">Profile Views</h3> 
-<p align="center"> <img src="https://profile-counter.glitch.me/mwirigi/count.svg" alt="Profile Views" /> </p>
+<h3>Profile Views</h3> 
+<p> <img src="https://profile-counter.glitch.me/mwirigi/count.svg" alt="Profile Views" /> </p>
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MwirigiMuriithi&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MwirigiMuriithi&show_icons=true&locale=en" alt="GitHub Stats" />
+
+
   <img src='https://streak-stats.demolab.com/?user=MwirigiMuriithi' alt="Streak Stats" />
-</p>
 
-<p align="center">
+
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwirigiMuriithi&layout=compact&langs_count=10" alt="Top Languages">
   </a>
-</p>
 
 
 <br>
