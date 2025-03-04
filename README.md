@@ -24,11 +24,9 @@
   <strong>Website:</strong> Coming Soon
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <h3 align="center">Profile Views</h3>
 <p align="center">
   <img src="https://profile-counter.glitch.me/mwirigi/count.svg" alt="Profile Views" />
