@@ -17,22 +17,16 @@
   <li><strong>Innovation:</strong> Integrating advanced AI methods to solve real-world problems and enhance user experiences.</li>
   <li><strong>Collaboration:</strong> Proven ability to work with cross-functional teams and contribute to diverse projects.</li>
   <li><strong>Commitment:</strong> Dedicated to continuous learning and applying the latest technologies to drive digital transformation.</li>
-  <li><strong>Contact:</strong> I welcome opportunities for collaboration or professional inquiries. Please reach out via <a href="mailto:learnerviner@gmail.com">learnerviner@gmail.com</a>.</li>
+  <li><strong>Contact:</strong> I welcome opportunities for collaboration or professional inquiries. Please reach out via <a href="mailto:hello@mwirigimuriithi.com">hello@mwirigimuriithi.com</a>.</li>
 </ul>
 
 <p>
-  <strong>Website:</strong> Coming Soon
+  <strong>Website:</strong> <a href="https://mwirigimuriithi.com/">https://mwirigimuriithi.com/</a>
 </p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-<h3 align="center">Profile Views</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mwirigi/count.svg" alt="Profile Views" />
-</p>
-
 
 
 <table align="center">
